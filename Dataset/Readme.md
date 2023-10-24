@@ -12,4 +12,4 @@ Dataset will be separate into 3 parts.
       
 3. Data for Sentimental Analysis (Jupyter notebook)
    1. We will need connection to PgAdmin in order to run the analysis.
-   2. Alternately, you can use ldn_list.csv & ldn_list.csv to run as well (With a few adjustment in the codes)
+   2. Alternately, you can use atd_list.csv & p_atd_rev.csv to run as well (With a few adjustment in the codes)
