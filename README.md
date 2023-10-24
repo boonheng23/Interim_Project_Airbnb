@@ -1,4 +1,4 @@
-# Interim_Project_Airbnb  (Generation Singapore JDE02)
+## Interim Project - Airbnb reviews (Generation Singapore JDE02)
 
 This report documents the work of our group, Dream Team, where we used publicly available
 data from Inside Airbnb, an advocacy group, to replicate the ETL (Extract, Transform, Load)
